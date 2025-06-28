@@ -1,6 +1,6 @@
 # Daily Productivity Tracker 🌓
 
-A **clean, dark-themed, single-page productivity tracker** built with **React**, tracking your daily **productive vs non-productive time** using a **Check-In/Check-Out system and task-based session tracking**, with **HTML report generation** for your daily reflection and discipline.
+A **clean,  single-page productivity tracker** built with **React**, tracking your daily **productive vs non-productive time** using a **Check-In/Check-Out system and task-based session tracking**, with **HTML report generation** for your daily reflection and discipline.
 
 ---
 
